@@ -1,0 +1,19 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "- Proof of work\r - Mining difficulty and mining reward\r - Transactions\r - Signing transactions using public/private key",
+  "main": "myCoin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarshJha995/my-crypto-coin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarshJha995/my-crypto-coin/issues"
+  },
+  "homepage": "https://github.com/HarshJha995/my-crypto-coin#readme"
+}
