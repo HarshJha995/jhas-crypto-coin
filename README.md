@@ -4,3 +4,4 @@
 - Proof of work
 - Mining difficulty and mining reward
 - Transactions
+- Signing transactions using public/private key
